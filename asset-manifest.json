@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/REACT-PORTFOLIO-WEBSITE-1/static/css/main.4ab831b0.css",
-    "main.js": "/REACT-PORTFOLIO-WEBSITE-1/static/js/main.14188135.js",
-    "static/media/Eu_JG2.jpg": "/REACT-PORTFOLIO-WEBSITE-1/static/media/Eu_JG2.24c35127029216dbbfc6.jpg",
-    "static/media/project9.jpg": "/REACT-PORTFOLIO-WEBSITE-1/static/media/project9.7e10b78179ee665298cd.jpg",
-    "static/media/project6.jpg": "/REACT-PORTFOLIO-WEBSITE-1/static/media/project6.4e8ab78eb40a0f03bc88.jpg",
-    "static/media/project7.jpg": "/REACT-PORTFOLIO-WEBSITE-1/static/media/project7.4389651d5816bb277c4a.jpg",
-    "static/media/project8.jpg": "/REACT-PORTFOLIO-WEBSITE-1/static/media/project8.16ed43794953534af05c.jpg",
-    "static/media/project4.jpg": "/REACT-PORTFOLIO-WEBSITE-1/static/media/project4.9e2e36250226a4ebb82b.jpg",
-    "static/media/project2.jpg": "/REACT-PORTFOLIO-WEBSITE-1/static/media/project2.d4ca506cbd979283014a.jpg",
-    "static/media/project1.jpg": "/REACT-PORTFOLIO-WEBSITE-1/static/media/project1.5cec46bd193a7eb80f22.jpg",
-    "static/media/project3.jpg": "/REACT-PORTFOLIO-WEBSITE-1/static/media/project3.746fa9dfecfb9e491ef1.jpg",
-    "static/media/project5.jpg": "/REACT-PORTFOLIO-WEBSITE-1/static/media/project5.fdd0c6a0d639a9c75455.jpg",
-    "static/media/Laidson_CV.pdf": "/REACT-PORTFOLIO-WEBSITE-1/static/media/Laidson_CV.382545475f53f47b1b10.pdf",
-    "static/media/Eu_Elevador2.png": "/REACT-PORTFOLIO-WEBSITE-1/static/media/Eu_Elevador2.f2fcb8dd46b2b2693e12.png",
-    "static/media/avatar5.jpg": "/REACT-PORTFOLIO-WEBSITE-1/static/media/avatar5.d25e9a28e32aa5201afa.jpg",
-    "static/media/avatar7.jpg": "/REACT-PORTFOLIO-WEBSITE-1/static/media/avatar7.ce63ba75f4177d9803fc.jpg",
-    "static/media/avatar6.jpg": "/REACT-PORTFOLIO-WEBSITE-1/static/media/avatar6.8fbcd9d41881b442663e.jpg",
-    "static/media/Eu_Foto.jpg": "/REACT-PORTFOLIO-WEBSITE-1/static/media/Eu_Foto.202cea18ee2b48c2b16b.jpg",
-    "index.html": "/REACT-PORTFOLIO-WEBSITE-1/index.html",
-    "main.4ab831b0.css.map": "/REACT-PORTFOLIO-WEBSITE-1/static/css/main.4ab831b0.css.map",
-    "main.14188135.js.map": "/REACT-PORTFOLIO-WEBSITE-1/static/js/main.14188135.js.map"
+    "main.css": "/static/css/main.4ab831b0.css",
+    "main.js": "/static/js/main.152c844a.js",
+    "static/media/Eu_JG2.jpg": "/static/media/Eu_JG2.24c35127029216dbbfc6.jpg",
+    "static/media/project9.jpg": "/static/media/project9.7e10b78179ee665298cd.jpg",
+    "static/media/project6.jpg": "/static/media/project6.4e8ab78eb40a0f03bc88.jpg",
+    "static/media/project7.jpg": "/static/media/project7.4389651d5816bb277c4a.jpg",
+    "static/media/project8.jpg": "/static/media/project8.16ed43794953534af05c.jpg",
+    "static/media/project4.jpg": "/static/media/project4.9e2e36250226a4ebb82b.jpg",
+    "static/media/project2.jpg": "/static/media/project2.d4ca506cbd979283014a.jpg",
+    "static/media/project1.jpg": "/static/media/project1.5cec46bd193a7eb80f22.jpg",
+    "static/media/project3.jpg": "/static/media/project3.746fa9dfecfb9e491ef1.jpg",
+    "static/media/project5.jpg": "/static/media/project5.fdd0c6a0d639a9c75455.jpg",
+    "static/media/Laidson_CV.pdf": "/static/media/Laidson_CV.382545475f53f47b1b10.pdf",
+    "static/media/Eu_Elevador2.png": "/static/media/Eu_Elevador2.f2fcb8dd46b2b2693e12.png",
+    "static/media/avatar5.jpg": "/static/media/avatar5.d25e9a28e32aa5201afa.jpg",
+    "static/media/avatar7.jpg": "/static/media/avatar7.ce63ba75f4177d9803fc.jpg",
+    "static/media/avatar6.jpg": "/static/media/avatar6.8fbcd9d41881b442663e.jpg",
+    "static/media/Eu_Foto.jpg": "/static/media/Eu_Foto.202cea18ee2b48c2b16b.jpg",
+    "index.html": "/index.html",
+    "main.4ab831b0.css.map": "/static/css/main.4ab831b0.css.map",
+    "main.152c844a.js.map": "/static/js/main.152c844a.js.map"
   },
   "entrypoints": [
     "static/css/main.4ab831b0.css",
-    "static/js/main.14188135.js"
+    "static/js/main.152c844a.js"
   ]
 }
