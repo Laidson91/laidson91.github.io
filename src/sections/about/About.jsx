@@ -31,7 +31,7 @@ const About = () => {
           Construir projetos que meus clientes adoram sempre foi minha paixão. Estando na indústria de desenvolvimento web há quase 1 ano e atendendo a mais de 10 clientes satisfeitos em todo o mundo, estou sempre motivado a fazer mais!
             </p>
           <p>
-          Olá, meu nome é Laidson Saturnino de Feira de Santana, Bahia. Sou um desenvolvedor web full-stack jr. com bacharelado em Ciências Contábeis. Minha principal prioridade é colocar sua empresa on-line da maneira certa, oferecendo um design padrão do setor e todas as funcionalidades de que você precisa para operar on-line sem problemas. Entre em contato hoje com os detalhes do seu projeto, vamos começar! Confira abaixo meu currículo!
+          Olá, meu nome é Laidson Saturnino de Feira de Santana, Bahia. Sou um desenvolvedor web full-stack jr, com bacharelado em Ciências Contábeis. Minha principal prioridade é colocar sua empresa on-line da maneira certa, oferecendo um design padrão do setor e todas as funcionalidades de que você precisa para operar on-line sem problemas. Entre em contato hoje com os detalhes do seu projeto, vamos começar! Confira abaixo meu currículo!
             </p>
           <a href={Laidson_CV} download className='btn primary'>Download CV <HiDownload/></a>
       </div>
