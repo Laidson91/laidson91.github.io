@@ -5,7 +5,7 @@ import { ThemeProvider } from './context/theme-context';
 import './index.css'
 
 
-const root = ReactDOM.createRoot(document.querySelector('#root'));
+const root = ReactDOM.createRoot(document.querySelector('root'));
 root.render(
     <ThemeProvider>
     <ModalProvider>
