@@ -18,7 +18,7 @@
     "static/media/avatar7.jpg": "/build/static/media/avatar7.ce63ba75f4177d9803fc.jpg",
     "static/media/avatar6.jpg": "/build/static/media/avatar6.8fbcd9d41881b442663e.jpg",
     "static/media/Eu_Foto.jpg": "/build/static/media/Eu_Foto.202cea18ee2b48c2b16b.jpg",
-    "index.html": "/build/index.html",
+    "index.html": "/public/index.html",
     "main.4ab831b0.css.map": "/build/static/css/main.4ab831b0.css.map",
     "main.152c844a.js.map": "/build/static/js/main.152c844a.js.map"
   },
